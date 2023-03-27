@@ -6,7 +6,9 @@
 
  #### [EN]
 
-`This organization [@Mobile-Authentication-Team](https://github.com/Mobile-Authentication-Team) is authentication that developed with React Native, Node JS, MongoDb technologies for the BTU BLM0353 Mobile Programming Lecture.`
+`This organization is authentication that developed with React Native, Node JS, MongoDb technologies for the BTU BLM0353 Mobile Programming Lecture.`
+
+[@Mobile-Authentication-Team](https://github.com/Mobile-Authentication-Team)
 
 # Project Details: 
 
@@ -45,7 +47,9 @@ You can reach in related pdf for each repository.
 
  #### [TR]
 
-`Bu organizasyon [@Mobile-Authentication-Team](https://github.com/Mobile-Authentication-Team), BTU BLM0353 Mobil Programlama Dersi için React Native, Node JS, MongoDb teknolojileri ile geliştirilmiş bir kimlik doğrulama projesi içerir.`
+`Bu organizasyon, BTU BLM0353 Mobil Programlama Dersi için React Native, Node JS, MongoDb teknolojileri ile geliştirilmiş bir kimlik doğrulama projesi içerir.`
+
+[@Mobile-Authentication-Team](https://github.com/Mobile-Authentication-Team)
 
 # Proje Detayları:  
 
